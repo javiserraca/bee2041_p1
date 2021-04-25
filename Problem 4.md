@@ -11,7 +11,7 @@ The diagram seen underneath is a representation of how the Covid-19 pandemic has
 
 ![](https://i.imgur.com/aBkFltG.png)
 
-Admittedly, having the data of 27 separate sovereign countries on one diagram is not visually appealing or informative. As such, the following diagrams divide the data already shown above into more logical comparisons between countries based on their geographical locations. In this way, it becomes much easier to compare the data from different countries within the EU, being able to to compare data within geographical locations as well as across geographical locations (as the axes are the identical for all seven plots).
+Admittedly, having the data of 27 separate sovereign countries on one diagram is not visually appealing or informative. As such, the following diagrams divide the data already shown above into more logical comparisons between countries based on their geographical locations. In this way, it becomes much easier to compare the data from different countries within the EU, being able to compare data within geographical locations as well as across geographical locations (as the axes are the identical for all seven plots).
 
 For example, it becomes quite clear that while Western European countries like Ireland or the Netherlands were successful at preventing the spread of Covid-19, countries like Sweden, Bulgaria, or Romania have had what looks like relatively constant and continuous Covid-19 infections throughout the pandemic. 
 
@@ -33,15 +33,15 @@ The diagram below is a visualization comparing Covid-19 data from Germany and It
 
 Although all four countries had significant Covid-19 cases during the start of the pandemic, the governments in Taiwan and Vietnam were able to quickly control the spreading of the virus, successfully preventing further infections. On the other hand, the data from the diagram also shows that the minimum recorded new cases in one day in Germany or Italy at any point in the pandemic is still greater than the maximum cases recorded in one day in either Vietnam or Taiwan. As such, it is rational to come to the conclusion that both Vietnam and Taiwan have been able to curb the spread of the virus much more effectively than any single EU-member, even though they are geographically much further away from the origin of the virus.
 
-![](https://i.imgur.com/gOuqdgr.png)
+![](https://i.imgur.com/dPpVgLm.png)
 
 The diagram above compared Germany and Italy, two of the EU's highly developed countries, with another highly developed and industrialised country (Taiwan) and a developing country (Vietnam) located in a completely different geographical location as a means to objectively show how both economically weaker and equivalent countries dealt with the pandemic more adeptly.
 
 Further proof of this can be seen in the diagrams below, where the clear differences can be seen in the number of Covid-19-caused deaths. Although Taiwan and Vietnam are made up of much less area than Germany or Italy, according to the "Worldometer" organisation, they both have higher population densities and more tropical climates, contributing to a more suitable environment for Covid-19 to spread than that of Europe. In fact, the population density of Taiwan is almost three times that of Germany, however, as the bar plot underneath shows, Germany has over 8,000 times the number of people that have died from Covid-19.
 
-![](https://i.imgur.com/tnIrOdZ.png)
+![](https://i.imgur.com/5SHZgVc.png)
 
-While economies can eventually recover from devastating exogenous shocks to the economy, irreversible cultural, individual, emotional, emotional, and economic losses due to the people that passed away from Covid-19 will take significantly lengthier time to overcome.
+While economies can eventually recover from devastating exogenous shocks to the economy, irreversible cultural, individual, emotional, and economic losses due to the people that passed away from Covid-19 will take significantly lengthier time to overcome.
 
 Subsequently, after analysing the data shown above in a multitude of different diagrams and plots, it becomes compelling to come to the conclusion that EU-member countries have undoubtedly underperformed at contending with pandemic when compared with other countries in the world. This can be due to several factors, including the significant political and cultural ties that exist between member countries, limiting their ability to isolate themselves away and take drastic measures. However, it is also important to mention that while EU-member countries are part of a larger entity, that entity did not dictate what policies they should or should not take when coping with the spread of the virus. 
 
